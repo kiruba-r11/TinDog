@@ -24,11 +24,15 @@ p {
 
 /* Headings */
 
-.big-heading {
+.big-heading-1, .big-heading{
 	text-align: left;
 	font-size: 3.5rem;
 	line-height: 1.5;
 	font-weight: 900;
+}
+
+.big-heading {
+	text-align: center;
 }
 
 /* Title */
@@ -163,7 +167,7 @@ p {
 		text-align: center;
 	}
 
-	.big-heading {
+	.big-heading-1 {
 		text-align: center;
 	}
 
